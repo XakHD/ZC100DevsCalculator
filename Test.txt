@@ -6,7 +6,7 @@ Run
 
 git config --global user.email "zcheldercraftllc@gmail.com"
 
-git config --global user.name "Zach C"
+git config --global user.name "XakHD"
 
 to set your account's default identity.
 Omit --global to set the identity only in this repository.
